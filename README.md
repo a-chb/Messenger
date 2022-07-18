@@ -16,9 +16,9 @@ https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-
 
 <h3>
 <ul>
-  <ls>Enter Username</ls><br>
-  <ls>Enter Messages</ls><br>
-  <ls>Messeages displayed on RHS</ls><br>
-  <ls>Messesages are sorted according to timestamp of the server</ls>
+  <ls>->Enter Username</ls><br>
+  <ls>->Enter Messages</ls><br>
+  <ls>->Messeages displayed on RHS</ls><br>
+  <ls>->Messesages are sorted according to timestamp of the server</ls>
 </ul>
 </h3>
