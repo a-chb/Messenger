@@ -22,4 +22,3 @@ https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-
   <ls>->Messesages are sorted according to timestamp of the server</ls>
 </ul>
 </h3>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
