@@ -14,11 +14,7 @@ You will also see any lint errors in the console.
 
 https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-ac3b-04b791fab23c.mp4
 
-<h3>
-<ul>
-  <ls>->Enter Username</ls><br>
-  <ls>->Enter Messages</ls><br>
-  <ls>->Messeages displayed on RHS</ls><br>
-  <ls>->Messesages are sorted according to timestamp of the server</ls>
-</ul>
-</h3>
+->Enter Username</ls><b
+->Enter Messages</ls><br>
+->Messeages displayed on RHS</ls><br>
+->Messesages are sorted according to timestamp of the server
