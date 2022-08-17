@@ -1,4 +1,4 @@
-# Messenger
+# Messenger Clone using React
 
 In the project directory, you can run:
 
@@ -11,10 +11,13 @@ You will also see any lint errors in the console.
 
 <h2> Demo Video </h2>
 
-
 https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-ac3b-04b791fab23c.mp4
 
-->Enter Username <br>
-->Enter Messages <br>
-->Messeages displayed on RHS <br>
-->Messesages are sorted according to timestamp of the server <br>
+## Steps to be followed :
+
+- Enter Username
+- Enter Messages 
+- Messeages displayed on RHS
+- Messesages are sorted according to timestamp of the server 
+
+
