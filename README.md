@@ -27,3 +27,6 @@ https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-
 - No Backend
 - Using Realtime Database
 
+## Feedback
+
+If you have any feedback, please reach out to us at different@gmail.com
