@@ -27,6 +27,18 @@ https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-
 - No Backend
 - Using Realtime Database
 
+## Tech Stack
+
+**Client :** Reactjs
+
+**Server :** Firebase Database
+
+## Documentation
+
+[React js documentation](https://reactjs.org/docs/getting-started.html)
+
+[Firebase API documentation](https://firebase.google.com/docs/reference)
+
 ## Feedback
 
-If you have any feedback, please reach out to us at different@gmail.com
+If you have any feedback, please reach out to me at different@gmail.com
