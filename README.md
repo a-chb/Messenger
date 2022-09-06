@@ -41,4 +41,4 @@ https://user-images.githubusercontent.com/83339750/179604034-6b18486a-71b1-43d6-
 
 ## Feedback
 
-If you have any feedback, please reach out to me at different@gmail.com
+If you have any feedback, please reach out to me.
