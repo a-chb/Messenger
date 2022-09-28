@@ -1,4 +1,4 @@
-# Messenger Clone using React
+## Messenger Clone using React
 
 In the project directory, you can run:
 
